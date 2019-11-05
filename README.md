@@ -1,10 +1,8 @@
-# myapp
+# Messing around with Flutter
 
-A new Flutter project.
+A project based on a tutorial that I'm tinkering with.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## More information about Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
